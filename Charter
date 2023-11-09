@@ -1,6 +1,12 @@
 1] Availability for meeting expectations
+  a] Kevin meeting times - Mondays between 9am and 12:30am, Tuesdays between 8:30am to 9:15am, 10:25am to 11:20am, 2pm to 5pm,
+      Wednesdays between 8:30am to 11:00am, Thursdays between 8:30am to 9:15am, 10:25am to 11:20am, Fridays between 8am to 11am
 2] Response time to communication expectations
+  a] Kevin response time - I will respond within two hours or less, if I am at work it will take longer
 3] Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+  a] Kevin definition of done: A task is complete when a pull request has been placed, at least two people have looked over the request and
+      left comments. The comments are dealt with, another pull request is made, two people look it over, and finally the code is adopted
+      into the main branch.
 4] Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
 5] Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates) if you adopt such a policy during the initial meeting, put it here
 7] Procedure for handling a member who is not meeting expectations, must include at least 3 actions before involving the instructor
